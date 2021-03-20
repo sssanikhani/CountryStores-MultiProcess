@@ -1,0 +1,10 @@
+assets/
+.vscode/
+*.txt
+*.o
+c_*
+StoreCalculator
+command
+province
+city
+store
